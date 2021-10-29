@@ -1,6 +1,6 @@
 # vue-font-resize
 
-> Note: `vue-font-resize@0.x` only works with `vue@2.x`
+> Note: `vue-font-resize` only works with `vue@2.x`
 
 ## Overview
 
@@ -46,3 +46,7 @@ export default {
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+## Github
+
+[vue-font-resize](https://github.com/yrsm-52025/vue-font-resize)
