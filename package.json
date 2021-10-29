@@ -1,0 +1,16 @@
+{
+  "name": "vue-font-resize",
+  "version": "0.0.1",
+  "description": "The Font Size Adapts To The Container Width",
+  "main": "dist/index.js",
+  "files": ["dist"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "font-resize",
+    "vue"
+  ],
+  "author": "lin_52025",
+  "license": "ISC"
+}
